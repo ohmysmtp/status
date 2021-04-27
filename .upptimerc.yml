@@ -5,14 +5,16 @@ repo: status # The name of this repository
 sites:
   - name: Application
     url: https://app.ohmysmtp.com
-  - name: Docs
+  - name: Documentation
     url: https://docs.ohmysmtp.com
   - name: Blog
     url: https://blog.ohmysmtp.com
   - name: Landing Page
     url: https://ohmysmtp.com
-  #- name: SMTP
-  #  url: smtp.ohmysmtp.com:25
+  - name: SMTP Server
+    check: "tcp-ping"
+    url: smtp.ohmysmtp.com
+    port: 25
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,14 +22,8 @@ status-website:
   # cname: status2.ohmysmtp.com
   baseUrl: /status
   logoUrl: https://ohmysmtp.com/favicon.ico
-  name: OhMySMTP Status Monitor
+  name: OhMySMTP Status
   introTitle: Fast & Reliable Transactional Email Delivery
-  introMessage: Independent, privacy-focused and eco-friendly transactional emails 
-  navbar:
-    - title: OhMySMTP Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
