@@ -4,18 +4,20 @@
     "url": "https://app.ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/app.ohmysmtp.com",
     "slug": "application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 443,
-    "timeWeek": 480,
-    "timeMonth": 468,
-    "timeYear": 516,
-    "dailyMinutesDown": {}
+    "time": 534,
+    "timeDay": 2741,
+    "timeWeek": 1050,
+    "timeMonth": 611,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2022-01-07": 0
+    }
   },
   {
     "name": "Documentation",
