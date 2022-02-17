@@ -24,10 +24,10 @@
     "url": "https://docs.ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/docs.ohmysmtp.com",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -35,17 +35,19 @@
     "timeWeek": 415,
     "timeMonth": 409,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/blog.ohmysmtp.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 284,
@@ -54,6 +56,7 @@
     "timeMonth": 404,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2022-02-17": 1,
       "2022-01-29": 18
     }
   },
@@ -62,9 +65,9 @@
     "url": "https://ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/ohmysmtp.com",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -74,6 +77,7 @@
     "timeMonth": 513,
     "timeYear": 308,
     "dailyMinutesDown": {
+      "2022-02-17": 0,
       "2022-01-29": 18,
       "2021-09-14": 15
     }
