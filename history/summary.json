@@ -71,12 +71,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 340,
     "timeDay": 91,
-    "timeWeek": 244,
+    "timeWeek": 243,
     "timeMonth": 324,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -93,9 +93,9 @@
     "url": "smtp.ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "smtp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,6 +104,8 @@
     "timeWeek": 143,
     "timeMonth": 122,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   }
 ]
