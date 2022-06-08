@@ -24,10 +24,10 @@
     "url": "https://docs.ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/docs.ohmysmtp.com",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 337,
@@ -36,6 +36,7 @@
     "timeMonth": 328,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2022-06-08": 2,
       "2022-04-18": 17,
       "2022-04-14": 72,
       "2022-03-02": 16
@@ -46,9 +47,9 @@
     "url": "https://blog.ohmysmtp.com",
     "icon": "https://favicons.githubusercontent.com/blog.ohmysmtp.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +59,7 @@
     "timeMonth": 620,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-04-18": 17,
       "2022-04-14": 39,
       "2022-01-29": 18
