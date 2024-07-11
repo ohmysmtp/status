@@ -27,10 +27,10 @@
     "url": "https://docs.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.ohmysmtp.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
@@ -39,6 +39,7 @@
     "timeMonth": 299,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2024-07-11": 1,
       "2024-03-16": 17,
       "2023-09-13": 51,
       "2023-09-12": 3
@@ -49,10 +50,10 @@
     "url": "https://blog.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ohmysmtp.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
@@ -60,16 +61,18 @@
     "timeWeek": 269,
     "timeMonth": 268,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-11": 1
+    }
   },
   {
     "name": "Landing Page",
     "url": "https://ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,7 +81,9 @@
     "timeWeek": 257,
     "timeMonth": 226,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "SMTP Server",
