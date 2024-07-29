@@ -67,18 +67,20 @@
     "url": "https://ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 265,
-    "timeWeek": 255,
-    "timeMonth": 268,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 252,
+    "timeDay": 184,
+    "timeWeek": 236,
+    "timeMonth": 263,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   },
   {
     "name": "SMTP Server",
