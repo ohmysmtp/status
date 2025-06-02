@@ -75,17 +75,16 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.37%",
     "time": 254,
     "timeDay": 236,
     "timeWeek": 366,
-    "timeMonth": 326,
+    "timeMonth": 327,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-06-01": 8,
       "2025-05-31": 19,
       "2025-05-29": 62,
       "2025-05-28": 49,
@@ -141,7 +140,8 @@
       "2025-03-12": 18,
       "2025-03-11": 15,
       "2025-03-10": 1015,
-      "2025-03-07": 15
+      "2025-03-07": 15,
+      "2025-02-28": 16
     }
   },
   {
