@@ -51,7 +51,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.73%",
+    "uptimeDay": "93.48%",
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.93%",
@@ -81,18 +81,19 @@
     "url": "https://ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 318,
     "timeDay": 216,
     "timeWeek": 216,
     "timeMonth": 445,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2025-10-16": 0,
       "2025-10-15": 97,
       "2025-10-03": 22,
       "2025-09-29": 21,
@@ -152,8 +153,7 @@
       "2025-05-10": 38,
       "2025-05-06": 34,
       "2025-05-02": 46,
-      "2025-04-29": 38,
-      "2025-04-28": 15
+      "2025-04-29": 38
     }
   },
   {
