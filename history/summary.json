@@ -122,7 +122,7 @@
     "url": "https://ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "97.15%",
     "uptimeWeek": "94.22%",
@@ -130,7 +130,7 @@
     "uptimeYear": "99.47%",
     "time": 451,
     "timeDay": 1189,
-    "timeWeek": 531,
+    "timeWeek": 539,
     "timeMonth": 747,
     "timeYear": 470,
     "dailyMinutesDown": {
