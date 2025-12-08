@@ -35,7 +35,7 @@
     "time": 344,
     "timeDay": 808,
     "timeWeek": 396,
-    "timeMonth": 415,
+    "timeMonth": 412,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-12-03": 49,
@@ -64,7 +64,7 @@
     "time": 530,
     "timeDay": 907,
     "timeWeek": 1137,
-    "timeMonth": 902,
+    "timeMonth": 905,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2025-12-07": 15,
@@ -123,18 +123,19 @@
     "url": "https://ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "93.96%",
     "uptimeYear": "99.46%",
     "time": 487,
-    "timeDay": 4671,
-    "timeWeek": 1258,
-    "timeMonth": 906,
+    "timeDay": 6398,
+    "timeWeek": 1269,
+    "timeMonth": 909,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2025-12-08": 0,
       "2025-12-07": 138,
       "2025-12-06": 41,
       "2025-12-05": 37,
@@ -163,8 +164,7 @@
       "2025-11-11": 27,
       "2025-11-10": 94,
       "2025-11-09": 113,
-      "2025-11-08": 190,
-      "2025-11-07": 17
+      "2025-11-08": 190
     }
   },
   {
