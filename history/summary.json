@@ -56,13 +56,13 @@
     "url": "https://blog.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ohmysmtp.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.94%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "96.96%",
     "uptimeMonth": "98.01%",
-    "uptimeYear": "99.53%",
-    "time": 547,
+    "uptimeYear": "99.54%",
+    "time": 548,
     "timeDay": 463,
     "timeWeek": 689,
     "timeMonth": 672,
@@ -132,8 +132,7 @@
       "2025-05-24": 27,
       "2025-05-23": 22,
       "2025-05-12": 17,
-      "2025-05-08": 23,
-      "2025-04-29": 36
+      "2025-05-08": 23
     }
   },
   {
@@ -143,17 +142,17 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "92.60%",
+    "uptimeMonth": "92.84%",
+    "uptimeYear": "99.40%",
     "time": 531,
     "timeDay": 1232,
     "timeWeek": 1142,
-    "timeMonth": 976,
+    "timeMonth": 979,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2026-01-03": 116,
+      "2026-01-03": 106,
       "2026-01-02": 78,
       "2026-01-01": 105,
       "2025-12-31": 41,
@@ -182,7 +181,7 @@
       "2025-12-07": 138,
       "2025-12-06": 41,
       "2025-12-05": 37,
-      "2025-12-04": 15
+      "2025-12-04": 40
     }
   },
   {
