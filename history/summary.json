@@ -61,7 +61,7 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "99.50%",
     "time": 596,
@@ -147,17 +147,17 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.35%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "92.67%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "88.80%",
+    "uptimeMonth": "92.61%",
+    "uptimeYear": "99.38%",
     "time": 591,
     "timeDay": 182,
     "timeWeek": 1154,
     "timeMonth": 1145,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2026-01-22": 154,
+      "2026-01-22": 147,
       "2026-01-21": 279,
       "2026-01-20": 67,
       "2026-01-19": 173,
@@ -183,7 +183,8 @@
       "2025-12-30": 130,
       "2025-12-29": 164,
       "2025-12-28": 100,
-      "2025-12-27": 40
+      "2025-12-27": 40,
+      "2025-12-26": 33
     }
   },
   {
