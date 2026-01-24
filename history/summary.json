@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 521,
-    "timeDay": 493,
-    "timeWeek": 462,
-    "timeMonth": 487,
+    "timeDay": 574,
+    "timeWeek": 487,
+    "timeMonth": 495,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-11-18": 155,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 355,
-    "timeDay": 382,
-    "timeWeek": 374,
-    "timeMonth": 384,
+    "timeDay": 392,
+    "timeWeek": 387,
+    "timeMonth": 387,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-01-23": 20,
@@ -59,16 +59,16 @@
     "url": "https://blog.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ohmysmtp.com.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.43%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.50%",
     "time": 601,
-    "timeDay": 743,
-    "timeWeek": 718,
-    "timeMonth": 743,
+    "timeDay": 698,
+    "timeWeek": 736,
+    "timeMonth": 745,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2026-01-24": 20,
@@ -135,8 +135,7 @@
       "2025-11-02": 17,
       "2025-11-01": 17,
       "2025-10-29": 24,
-      "2025-10-27": 90,
-      "2025-10-26": 23
+      "2025-10-27": 90
     }
   },
   {
@@ -146,17 +145,17 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "89.51%",
-    "uptimeMonth": "92.57%",
+    "uptimeDay": "89.44%",
+    "uptimeWeek": "89.72%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 605,
-    "timeDay": 2090,
-    "timeWeek": 1512,
-    "timeMonth": 1227,
+    "timeDay": 2081,
+    "timeWeek": 1596,
+    "timeMonth": 1228,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2026-01-24": 158,
+      "2026-01-24": 152,
       "2026-01-23": 16,
       "2026-01-22": 147,
       "2026-01-21": 279,
@@ -183,7 +182,7 @@
       "2025-12-31": 41,
       "2025-12-30": 130,
       "2025-12-29": 164,
-      "2025-12-28": 17
+      "2025-12-28": 43
     }
   },
   {
@@ -199,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 7,
     "timeDay": 3,
-    "timeWeek": 5,
+    "timeWeek": 4,
     "timeMonth": 6,
     "timeYear": 8,
     "dailyMinutesDown": {}
