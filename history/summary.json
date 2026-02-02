@@ -63,17 +63,17 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "99.47%",
     "time": 575,
     "timeDay": 397,
     "timeWeek": 504,
     "timeMonth": 707,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2026-02-01": 85,
+      "2026-02-01": 74,
       "2026-01-31": 67,
       "2026-01-30": 35,
       "2026-01-29": 51,
@@ -138,7 +138,7 @@
       "2025-11-08": 17,
       "2025-11-07": 18,
       "2025-11-06": 19,
-      "2025-11-05": 18
+      "2025-11-05": 35
     }
   },
   {
@@ -148,7 +148,7 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "81.33%",
+    "uptimeDay": "82.65%",
     "uptimeWeek": "92.15%",
     "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
