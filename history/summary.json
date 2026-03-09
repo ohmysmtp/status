@@ -35,7 +35,7 @@
     "time": 368,
     "timeDay": 303,
     "timeWeek": 351,
-    "timeMonth": 468,
+    "timeMonth": 466,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-03-01": 29,
@@ -72,7 +72,7 @@
     "time": 615,
     "timeDay": 300,
     "timeWeek": 477,
-    "timeMonth": 714,
+    "timeMonth": 725,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2026-03-08": 33,
@@ -149,17 +149,17 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "89.71%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "99.07%",
     "time": 624,
-    "timeDay": 784,
+    "timeDay": 875,
     "timeWeek": 794,
-    "timeMonth": 838,
+    "timeMonth": 844,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2026-03-08": 155,
+      "2026-03-08": 148,
       "2026-03-07": 50,
       "2026-03-06": 211,
       "2026-03-04": 20,
@@ -194,7 +194,7 @@
       "2026-02-02": 72,
       "2026-02-01": 269,
       "2026-01-31": 19,
-      "2026-01-30": 43
+      "2026-01-30": 85
     }
   },
   {
