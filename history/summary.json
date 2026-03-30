@@ -35,7 +35,7 @@
     "time": 373,
     "timeDay": 386,
     "timeWeek": 423,
-    "timeMonth": 391,
+    "timeMonth": 388,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2026-03-15": 25,
@@ -68,7 +68,7 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.28%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.35%",
     "time": 641,
     "timeDay": 657,
@@ -151,17 +151,17 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "90.96%",
-    "uptimeMonth": "91.78%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "99.12%",
     "time": 642,
     "timeDay": 1502,
     "timeWeek": 1056,
-    "timeMonth": 757,
+    "timeMonth": 844,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2026-03-29": 113,
+      "2026-03-29": 110,
       "2026-03-28": 48,
       "2026-03-27": 97,
       "2026-03-26": 117,
@@ -197,7 +197,7 @@
       "2026-02-23": 235,
       "2026-02-22": 143,
       "2026-02-21": 27,
-      "2026-02-20": 23
+      "2026-02-20": 57
     }
   },
   {
