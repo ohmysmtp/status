@@ -151,18 +151,19 @@
     "url": "https://ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "86.54%",
+    "uptimeDay": "86.52%",
     "uptimeWeek": "89.21%",
     "uptimeMonth": "90.38%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.07%",
     "time": 699,
     "timeDay": 205,
     "timeWeek": 1657,
     "timeMonth": 1129,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2026-04-13": 0,
       "2026-04-12": 194,
       "2026-04-11": 273,
       "2026-04-10": 177,
@@ -197,7 +198,7 @@
       "2026-03-11": 65,
       "2026-03-10": 258,
       "2026-03-09": 2,
-      "2026-03-08": 148
+      "2026-03-08": 65
     }
   },
   {
