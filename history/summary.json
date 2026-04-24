@@ -71,7 +71,7 @@
     "uptimeMonth": "89.49%",
     "uptimeYear": "98.56%",
     "time": 629,
-    "timeDay": 290,
+    "timeDay": 251,
     "timeWeek": 457,
     "timeMonth": 849,
     "timeYear": 703,
@@ -152,18 +152,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ohmysmtp.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "84.64%",
+    "uptime": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.65%",
     "uptimeMonth": "88.97%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.81%",
     "time": 726,
     "timeDay": 1084,
     "timeWeek": 1404,
     "timeMonth": 1375,
-    "timeYear": 752,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2026-04-23": 2,
       "2026-04-22": 216,
       "2026-04-21": 128,
       "2026-04-20": 276,
@@ -200,7 +199,7 @@
       "2026-03-19": 208,
       "2026-03-18": 151,
       "2026-03-17": 115,
-      "2026-03-16": 36
+      "2026-03-16": 166
     }
   },
   {
