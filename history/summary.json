@@ -64,9 +64,9 @@
     "url": "https://blog.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ohmysmtp.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "89.56%",
     "uptimeYear": "98.56%",
@@ -76,6 +76,7 @@
     "timeMonth": 808,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2026-04-28": 1,
       "2026-04-26": 31,
       "2026-04-22": 54,
       "2026-04-21": 46,
@@ -143,8 +144,7 @@
       "2025-12-30": 48,
       "2025-12-29": 42,
       "2025-12-28": 21,
-      "2025-12-27": 20,
-      "2025-12-25": 16
+      "2025-12-27": 20
     }
   },
   {
@@ -155,12 +155,12 @@
     "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.68%",
+    "uptimeWeek": "96.95%",
     "uptimeMonth": "89.53%",
     "uptimeYear": "98.82%",
     "time": 726,
     "timeDay": 404,
-    "timeWeek": 314,
+    "timeWeek": 331,
     "timeMonth": 1436,
     "timeYear": 758,
     "dailyMinutesDown": {
