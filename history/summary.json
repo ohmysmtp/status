@@ -156,7 +156,7 @@
     "timeDay": 556,
     "timeWeek": 345,
     "timeMonth": 400,
-    "timeYear": 889,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2026-03-20": 118,
       "2026-03-21": 162,
@@ -208,10 +208,10 @@
     "url": "smtp.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 10,
@@ -219,6 +219,8 @@
     "timeWeek": 15,
     "timeMonth": 19,
     "timeYear": 10,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-14": 1
+    }
   }
 ]
