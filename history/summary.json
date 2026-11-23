@@ -66,7 +66,7 @@
     "timeDay": 790,
     "timeWeek": 596,
     "timeMonth": 627,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-12-30": 48,
       "2025-12-31": 78,
@@ -207,22 +207,22 @@
     "url": "smtp.ohmysmtp.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-server",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.06%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "99.72%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "86.26%",
+    "uptimeMonth": "96.02%",
+    "uptimeYear": "99.67%",
     "time": 10,
-    "timeDay": 0,
-    "timeWeek": 21,
-    "timeMonth": 20,
-    "timeYear": 11,
+    "timeDay": 2,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 10,
     "dailyMinutesDown": {
       "2026-11-14": 272,
       "2026-11-16": 615,
       "2026-11-21": 484,
-      "2026-11-23": 85
+      "2026-11-23": 371
     }
   }
 ]
